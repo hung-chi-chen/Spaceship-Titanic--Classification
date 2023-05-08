@@ -15,7 +15,7 @@ The project was built using Python and the following libraries:
   scikit-learn
 
 Results
-After preprocessing the data, performing feature engineering, and tuning various machine learning models, a Random Forest Classifier was selected as the final model. The model achieved an accuracy of 85.2% on the test set, indicating good predictive performance.
+After preprocessing the data, performing feature engineering, and tuning various machine learning models, a Random Forest Classifier was selected as the final model. The model achieved an accuracy of 82.05% on the test set, indicating good predictive performance.
 
 Conclusion
 This project demonstrates the use of machine learning techniques to predict which passengers on the Spaceship Titanic were affected by the spacetime anomaly based on various features. The final model achieved good performance and can be used to help rescue crews retrieve the lost passengers.
