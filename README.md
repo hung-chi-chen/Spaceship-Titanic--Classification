@@ -1,4 +1,4 @@
-##Project Name: Spaceship Titanic Rescue Mission
+Project Name: Spaceship Titanic Rescue Mission
 Description
 This project is a data analysis of the Spaceship Titanic's computer system records in order to help rescue crews retrieve the lost passengers who were transported to an alternate dimension due to a spacetime anomaly. The goal is to build a machine learning model that can accurately predict which passengers were affected by the anomaly based on various features such as age, gender, and ticket class.
 
